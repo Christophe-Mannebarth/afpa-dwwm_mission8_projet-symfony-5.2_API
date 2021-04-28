@@ -1,12 +1,14 @@
 # Mission 8 - API REST basée sur l'application Symfony Demo
 
-Le but de cette mission étant de mettre en place une API RESTful avec API-Platform et Symfony 5
-
-Site en ligne: http://afpa-dwwm-mission8-api.chris-info-service.fr/fr
------
-
 The "Symfony Demo Application" is a reference application created to show how
 to develop applications following the [Symfony Best Practices][1].
+
+Le but de cette mission étant de mettre en place une API RESTful avec API-Platform et Symfony 5
+
+Site en ligne: 
+-----
+http://afpa-dwwm-mission8-api.chris-info-service.fr/fr
+
 
 Support pédagogique: https://grafikart.fr/tutoriels/module-commentaires-api-platform-1310
 -----
