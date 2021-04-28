@@ -57,11 +57,11 @@ $ ./bin/phpunit
 Technologies et frameworks utilisés dans cette démo:
 -----
 
-  React
-  Sass
-  Symfony 5.2
-  API Platform
-  node.js
+   React
+   Sass
+   Symfony 5.2
+   API Platform
+   node.js
 
 
 [1]: https://symfony.com/doc/current/best_practices.html
