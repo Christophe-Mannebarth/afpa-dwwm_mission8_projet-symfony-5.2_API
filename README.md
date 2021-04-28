@@ -9,9 +9,9 @@ Site en ligne:
 -----
 http://afpa-dwwm-mission8-api.chris-info-service.fr/fr
 
-
-Support pédagogique: https://grafikart.fr/tutoriels/module-commentaires-api-platform-1310
+Support pédagogique: 
 -----
+https://grafikart.fr/tutoriels/module-commentaires-api-platform-1310
 
 Requirements
 ------------
