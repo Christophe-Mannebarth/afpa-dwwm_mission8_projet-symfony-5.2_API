@@ -1,7 +1,6 @@
 #Mission 8 - API REST basée sur l'application Symfony Demo
 
 Le but de cette mission étant de mettre en place une API RESTful avec API-Platform et Symfony 5
-========================
 
 Site en ligne: http://afpa-dwwm-mission8-api.chris-info-service.fr/fr
 -----
