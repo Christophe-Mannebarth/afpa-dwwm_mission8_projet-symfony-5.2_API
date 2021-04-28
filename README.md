@@ -28,7 +28,13 @@ If you have
 
 ```bash
 $ cd nom_du_projet/ => se placer dans le dossier de travail
-$ npm (ou yarn) install => installer le dossier vendor
+$ composer install => installer le dossier vendor
+$ npm (ou yarn) install => installer le dossier node_modules
+```
+Si un probleme intervient au niveau du css et de sass:
+
+```bash
+$ npm rebuild node-sass 
 ```
 
 Cette release est 'buildée' donc utilisable avec Wamp ou si vous preférez utilisez le serveur de symfony:
