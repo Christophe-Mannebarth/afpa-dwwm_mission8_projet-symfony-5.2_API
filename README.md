@@ -58,9 +58,13 @@ Technologies et frameworks utilisés dans cette démo:
 -----
 
    React
+   
    Sass
+   
    Symfony 5.2
+   
    API Platform
+   
    node.js
 
 
