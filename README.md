@@ -1,5 +1,5 @@
-Mission 8 - API REST
-basée sur l'application Symfony Demo
+Mission 8 - API REST basée sur l'application Symfony Demo
+
 Le but de cette mission étant de mettre en place une API RESTful avec API-Platform et Symfony 5
 ========================
 
