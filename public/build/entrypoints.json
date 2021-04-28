@@ -1,0 +1,52 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/build/runtime.js",
+        "/build/0.js",
+        "/build/1.js",
+        "/build/app.js"
+      ],
+      "css": [
+        "/build/app.css"
+      ]
+    },
+    "login": {
+      "js": [
+        "/build/runtime.js",
+        "/build/0.js",
+        "/build/login.js"
+      ]
+    },
+    "admin": {
+      "js": [
+        "/build/runtime.js",
+        "/build/0.js",
+        "/build/1.js",
+        "/build/admin.js"
+      ],
+      "css": [
+        "/build/admin.css"
+      ]
+    },
+    "search": {
+      "js": [
+        "/build/runtime.js",
+        "/build/0.js",
+        "/build/1.js",
+        "/build/search.js"
+      ]
+    }
+  },
+  "integrity": {
+    "/build/runtime.js": "sha384-/Zh0hTCgqMfXwZfeMIiueZzsKiHkvtqEOzKpZAuznIbgqg1DQpUQAwwNlO/9ToVH",
+    "/build/0.js": "sha384-QGg13EYi44Q2KUloULTlWjFU5Jx4PhQ26F+2/bLHkTt8Z8o9nlasApX8qyKDMG/4",
+    "/build/1.js": "sha384-LsiudLkq3qnKMeVIeSdqik4Jv4OicEMooFUEPfA8v+dFajkOPgSICsxIbgHvZI8D",
+    "/build/app.js": "sha384-U4xKcbC9J1sBYw4Ck1XHWz0pf8EgdRhzJULfDSS2Tl+x4qqeppBBK+EbWjvMj+26",
+    "/build/app.css": "sha384-f64HOoTdUYYCkZDVx21KU0pfr+SNTuAED0Gu8xUeyAxP0LqgtFmDTN/d5YPGjERA",
+    "/build/login.js": "sha384-w5qwGnj2mp4pazKe9KGCQU+FR1n/717WouCp594UxY7HHGLafcGrZ9mrFR68V6oe",
+    "/build/admin.js": "sha384-GDVMwSZm0pca118iz/YyaGiJ1MRg2W6hNRrMbjkh0SYhPGcabnOtHwc0irLmWuRr",
+    "/build/admin.css": "sha384-ilLLAgcQxfeIVl6jV3AsZ2jmrWwgECQptl9HYwqc2NpYuTl6FEW46DBpDk5Q76sp",
+    "/build/search.js": "sha384-YfsgqBy5P7civ6HJH3Hqzdm7Ys+x52Wd6YQf7CN+3LH76kI1VuOQS0vsv4YLa30A"
+  }
+}
